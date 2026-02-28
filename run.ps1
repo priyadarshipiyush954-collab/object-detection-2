@@ -1,0 +1,1 @@
+.\.venv\Scripts\python.exe "yolo-weights\chapter 6 - yolo with webcam\yolo_web.py"
